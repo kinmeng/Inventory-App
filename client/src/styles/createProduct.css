@@ -1,0 +1,11 @@
+
+#createproductpage{
+
+    width: 100%; /* Set your desired width */
+    max-width: 80%; /*Set your desired maximum width */ 
+    height: auto; /*Set your desired height */
+    overflow: auto; /*Add a scrollbar if the content overflows */
+    margin: auto; /*Center the container horizontally */
+    margin-top: 10rem;
+ 
+}

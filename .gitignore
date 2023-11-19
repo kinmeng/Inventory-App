@@ -1,0 +1,7 @@
+#Ignores all environment variable files
+*/*.env
+
+#Ignores changes to node modules
+# dependencies
+node_modules/*
+node_modules/

@@ -1,0 +1,31 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    /* text-align: center; */
+    padding: 20px; /* Add padding for content spacing */
+    margin-top: 5rem;
+    /* position: fixed; */
+    /* left: 0;
+    bottom: -5px; */
+    width: 100%;
+    /* margin-top: auto; This pushes the footer to the bottom */
+  
+
+  }
+  
+  .container {
+    margin-top:20px;
+    /* margin: 20px ; Add a margin around the entire footer (adjust as needed) */
+
+  }
+
+
+/*   
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* Additional styling for the footer */
+
+

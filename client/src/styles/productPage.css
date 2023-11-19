@@ -1,0 +1,19 @@
+
+
+.intro-section{
+  margin-top:5rem;
+  margin-bottom: 2rem;
+}
+
+#product-page{
+padding-bottom:100px;
+padding-top: 5rem;
+width: 100%; /* Set your desired width */
+max-width: 80%; /*Set your desired maximum width */ 
+/* height: auto; Set your desired height */
+overflow: auto; /*Add a scrollbar if the content overflows */
+margin: 0 auto; /*Center the container horizontally */
+min-height:100vh; 
+}
+
+
